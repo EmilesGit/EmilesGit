@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emile
 - 👀 I’m interested in cybersecurity and data engineering
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on...anything that will make me a better developer!
 - 📫 How to reach me ...
 
 <!---
